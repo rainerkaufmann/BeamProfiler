@@ -52,4 +52,4 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
 <table>
 Table 1 | Individual costs of beam profiler components.
 <br><br><br>
-<h1>Discussion of issues...</h1>
+<h3>Discussion of issues...</h3>
