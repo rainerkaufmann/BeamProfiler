@@ -43,7 +43,7 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
   </tr>
   <tr>
     <td>Achromatic, anti-reflection lenses</td>
-    <td>200</td>
+    <td align="right">200</td>
   </tr>
   <tr>
     <td>1080p Webcam (AUSDOM AW335)</td>
