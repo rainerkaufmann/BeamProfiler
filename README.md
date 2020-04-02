@@ -12,13 +12,13 @@ Here, we present our approach to a low-cost beam profiler, which utilizes a webc
 <br><br>
 <img src="https://raw.githubusercontent.com/rainerkaufmann/BeamProfiler/master/fig1_parts.jpg" width="512">
 <br>
-Fig. 1
+Figure 1 | Major components of beam profiler.
 <br><br>
 The webcam we are currently using is an AUSDOM AW335 with a ¼” CMOS chip and a resolution of 1920 x 1080 pixels. A standard ¼” chip has a light sensitive area with a diagonal of approximately 4.5 mm, resulting in a pixel size of about 2 µm x 2 µm. Both parameters still have to be evaluated by reflection microscopy imaging.
 <br>
 In addition to a very low price of approx. 15 EUR, the webcam has a threaded tube comprising the sensor chip, which is an ideal working point for the mount in the optical setup. The CAD drawing of the mount for the partially disassembled webcam can be seen in Fig. 2. One part of the mount is complementary to the threaded tube of the webcam; the other is mimicking a mounting plate of the Thorlabs optical cage system.
 <br><br>
-The rest of the setup is built from parts of the of Thorlabs cage mounting system, posts and post holders and simple optical elements. The total price for our beam profiler was 372 EUR including VAT and delivery cost (for details see table below). The cost can be remarkably reduced (~180 EUR) by using free-standing optical mounts and simple NBK7 glass lenses. It shall be noted, that commercial beam profilers often need de-(magnification) and/or attenuation optics, too.
+The rest of the setup is built from parts of the of Thorlabs cage mounting system, posts and post holders and simple optical elements. The total price for our beam profiler was 372 EUR including VAT and delivery cost (for details see Table 1). The cost can be remarkably reduced (~180 EUR) by using free-standing optical mounts and simple NBK7 glass lenses. It shall be noted, that commercial beam profilers often need de-(magnification) and/or attenuation optics, too.
 <br><br>
 <table>
   <tr>
@@ -50,3 +50,5 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
     <td>2</td>
   </tr>
 </table>
+<br>
+Table 1 | Individual costs of beam profiler components.
