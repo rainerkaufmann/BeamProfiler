@@ -4,6 +4,11 @@ Knowing the exact diameter and profile of a laser beam is highly beneficial for 
 <br>
 Here, we present our approach to a low-cost beam profiler, which utilizes a webcam for the profile recording and is designed for collimated laser beams with large diameters. The setup is built of three major components (Fig. 1):
 <br><br>
+<ul style="list-style-type:none;">
+  <li>(i) a neutral density filter (optical density typically between three and for) for the attenuation of the laser power to facilitate the measurement with a standard webcam;</li>
+  <li>(ii) a lens system for demagnification of the laser beam - with f2/f1 = M, the desired demagnification;</li>
+  <li>(iii) a cheap webcam with a sensor chip which is easily accessible by disassembly of the webcam and an elevated surface in the webcam housing for easy mounting.</li>
+</ul>  
 (i) a neutral density filter (optical density typically between three and for) for the attenuation of the laser power to facilitate the measurement with a standard webcam;
 <br><br>
 (ii) a lens system for demagnification of the laser beam - with f2/f1 = M, the desired demagnification;
