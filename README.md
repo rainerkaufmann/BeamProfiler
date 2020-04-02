@@ -18,6 +18,10 @@ The webcam we are currently using is an AUSDOM AW335 with a ¼” CMOS chip and 
 <br>
 In addition to a very low price of approx. 15 EUR, the webcam has a threaded tube comprising the sensor chip, which is an ideal working point for the mount in the optical setup. The CAD drawing of the mount for the partially disassembled webcam can be seen in Fig. 2. One part of the mount is complementary to the threaded tube of the webcam; the other is mimicking a mounting plate of the Thorlabs optical cage system.
 <br><br>
+<img src="https://raw.githubusercontent.com/rainerkaufmann/BeamProfiler/master/fig2_camera-mount.jpg" width="512">
+<br>
+Figure 2 | Camera mount.
+<br><br>
 The rest of the setup is built from parts of the of Thorlabs cage mounting system, posts and post holders and simple optical elements. The total price for our beam profiler was 372 EUR including VAT and delivery cost (for details see Table 1). The cost can be remarkably reduced (~180 EUR) by using free-standing optical mounts and simple NBK7 glass lenses. It shall be noted, that commercial beam profilers often need de-(magnification) and/or attenuation optics, too.
 <br><br>
 <table>
