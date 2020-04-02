@@ -48,5 +48,8 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
   <tr>
     <td>Mount for Webcam (3D-printed)</td>
     <td>2</td>
+  </tr>
 <table>
-# Table 1 | Individual costs of beam profiler components.
+Table 1 | Individual costs of beam profiler components.
+<br><br>
+  
