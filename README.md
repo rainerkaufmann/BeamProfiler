@@ -20,7 +20,7 @@ In addition to a very low price of approx. 15 EUR, the webcam has a threaded tub
 <br><br>
 The rest of the setup is built from parts of the of Thorlabs cage mounting system, posts and post holders and simple optical elements. The total price for our beam profiler was 372 EUR including VAT and delivery cost (for details see Table 1). The cost can be remarkably reduced (~180 EUR) by using free-standing optical mounts and simple NBK7 glass lenses. It shall be noted, that commercial beam profilers often need de-(magnification) and/or attenuation optics, too.
 <br><br>
-<table>
+
   <tr>
     <th>Parts (from Tholabs if not stated otherwise)</th>
     <th>Price (EUR)</th>
@@ -48,4 +48,4 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
   <tr>
     <td>Mount for Webcam (3D-printed)</td>
     <td>2</td>
-</table> Table 1 | Individual costs of beam profiler components.
+Table 1 | Individual costs of beam profiler components.
