@@ -12,6 +12,6 @@ Here, we present our approach to a low-cost beam profiler, which utilizes a webc
 
 <img src="https://raw.githubusercontent.com/rainerkaufmann/BeamProfiler/master/fig1_parts.jpg" width="512">
 Fig. 1
-
+<br><br>
 The webcam we are currently using is an AUSDOM AW335 with a ¼” CMOS chip and a resolution of 1920 x 1080 pixels. A standard ¼” chip has a light sensitive area with a diagonal of approximately 4.5 mm, resulting in a pixel size of about 2 µm x 2 µm. Both parameters still have to be evaluated by reflection microscopy imaging.
 In addition to a very low price of approx. 15 EUR, the webcam has a threaded tube comprising the sensor chip, which is an ideal working point for the mount in the optical setup. The CAD drawing of the mount for the partially disassembled webcam can be seen in Fig. 2. One part of the mount is complementary to the threaded tube of the webcam; the other is mimicking a mounting plate of the Thorlabs optical cage system.
