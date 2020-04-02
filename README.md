@@ -22,7 +22,7 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
 <br><br>
 <table>
   <tr>
-    <th>Part(s) (from Tholabs if not stated otherwise)</th>
+    <th>Parts (from Tholabs if not stated otherwise)</th>
     <th>Price (EUR)</th>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
   </tr>
   <tr>
     <td>Mount for Webcam (3D-printed)</td>
-    <td>2</td>
+    <td>2
 </table>
 <br>
 Table 1 | Individual costs of beam profiler components.
