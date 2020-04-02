@@ -31,15 +31,15 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
   </tr>
   <tr>
     <td>½” Post & post holder</td>
-    <td>20</td>
+    <td align="right">20</td>
   </tr>
   <tr>
     <td>30 mm cage plates and assembly rods</td>
-    <td>80</td>
+    <td align="right">80</td>
   </tr>
   <tr>
     <td>1” Neutral density filter</td>
-    <td>55</td>
+    <td align="right">55</td>
   </tr>
   <tr>
     <td>Achromatic, anti-reflection lenses</td>
@@ -47,11 +47,11 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
   </tr>
   <tr>
     <td>1080p Webcam (AUSDOM AW335)</td>
-    <td>15</td>
+    <td align="right">15</td>
   </tr>
   <tr>
     <td>Mount for Webcam (3D-printed)</td>
-    <td>2</td>
+    <td align="right">2</td>
   </tr>
 <table>
 Table 1 | Individual costs of beam profiler components.
