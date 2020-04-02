@@ -17,3 +17,60 @@ Fig. 1
 The webcam we are currently using is an AUSDOM AW335 with a ¼” CMOS chip and a resolution of 1920 x 1080 pixels. A standard ¼” chip has a light sensitive area with a diagonal of approximately 4.5 mm, resulting in a pixel size of about 2 µm x 2 µm. Both parameters still have to be evaluated by reflection microscopy imaging.
 <br>
 In addition to a very low price of approx. 15 EUR, the webcam has a threaded tube comprising the sensor chip, which is an ideal working point for the mount in the optical setup. The CAD drawing of the mount for the partially disassembled webcam can be seen in Fig. 2. One part of the mount is complementary to the threaded tube of the webcam; the other is mimicking a mounting plate of the Thorlabs optical cage system.
+<br><br>
+The rest of the setup is built from parts of the of Thorlabs cage mounting system, posts and post holders and simple optical elements. The total price for our beam profiler was 372 EUR including VAT and delivery cost (for details see table below). The cost can be remarkably reduced (~180 EUR) by using free-standing optical mounts and simple NBK7 glass lenses. It shall be noted, that commercial beam profilers often need de-(magnification) and/or attenuation optics, too.
+<br><br>
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<table>
+  <tr>
+    <th>Part(s) (from Tholabs if not stated otherwise)</th>
+    <th>Price (EUR)</th>
+  </tr>
+  <tr>
+    <td>½” Post & post holder</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>30 mm cage plates and assembly rods</td>
+    <td>80</td>
+  </tr>
+  <tr>
+    <td>1” Neutral density filter</td>
+    <td>55</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+  </tr>
+  <tr>
+    <td>Achromatic, anti-reflection lenses</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>1080p Webcam (AUSDOM AW335)</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>Mount for Webcam (3D-printed)</td>
+    <td>2</td>
+  </tr>
+</table>
+</body>
