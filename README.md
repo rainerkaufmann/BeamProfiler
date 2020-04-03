@@ -1,4 +1,5 @@
 ## Low-cost beam profiler (WIP)
+by Julian Falkenhayn & Rainer Kaufmann
 
 Knowing the exact diameter and profile of a laser beam is highly beneficial for a wide range of (bio-)optical applications; e.g. determining the power distribution of your laser spot to avoid radiation damage on your sample or optical elements. Unluckily, commercial beam profilers (either camera based or scanning slit / knife-edge devices) usually cost several k EUR. Consequently, several research groups have created designs for low-cost beam profiler.
 <br>
@@ -57,7 +58,6 @@ The rest of the setup is built from parts of the of Thorlabs cage mounting syste
 Table 1 | Individual costs of beam profiler components.
 <br><br><br>
 <h3>Discussion of issues</h3>
-<br><br>
 One might wonder why there is no wide spread of low-cost, home-built beam profiler. This is probably due to the “Bayer-problem”. Consumer cameras, including webcams, are colour sensors, which have filters in front of each pixel in a pattern of alternating rows of red/green and green/blue filters, called Bayer-filter (or Bayer-pattern). Furthermore, the signal received by a single pixel is further processed and interpolated with its surrounding pixels to finally obtain a colour image. Both facts are rendering consumer cameras fairly unfavourable for beam profiling.
 <br>  
 However, we are in the process of testing three different options (all of them are still work in progress) to circumvent these problems:
