@@ -59,12 +59,16 @@ Table 1 | Individual costs of beam profiler components.
 <br><br><br>
 <h3>Discussion of issues</h3>
 One might wonder why there is no wide spread of low-cost, home-built beam profiler. This is probably due to the “Bayer-problem”. Consumer cameras, including webcams, are colour sensors, which have filters in front of each pixel in a pattern of alternating rows of red/green and green/blue filters, called Bayer-filter (or Bayer-pattern). Furthermore, the signal received by a single pixel is further processed and interpolated with its surrounding pixels to finally obtain a colour image. Both facts are rendering consumer cameras fairly unfavourable for beam profiling.
-<br>  
+<br><br>
+<img src="https://raw.githubusercontent.com/rainerkaufmann/BeamProfiler/master/fig3_profile.jpg" width="512">
+<br>
+Figure 3 | Beam profile. (A) Image as otained from camera. (B) 2x2 binning plus Gaussian filter.
+<br><br>
 However, we are in the process of testing three different options (all of them are still work in progress) to circumvent these problems:
 <br><br>
-(A) Mostly ignoring the problems, which can result in a spiky beam profile (Fig. 3), but should provide proper beam parameters for spot sizes order of magnitudes greater than the pixel size. Further optimization routines can be:
+(A) Mostly ignoring the problems, which can result in a spiky beam profile (Fig. 3A), but should provide proper beam parameters for spot sizes order of magnitudes greater than the pixel size. Further optimization routines can be:
 <br>
-(A.1) Smoothing the measured data with standard filters (e.g. gaussian or mean).
+(A.1) Smoothing the measured data with standard filters (e.g. Gaussian or mean, Fig. 3B).
 <br>
 (A.2) Removing pixels with non-fitting colour filters or binning 2x2 pixels with the value of the pixel with fitting colour filter in this matrix and hence, reducing the resolution of the final image to 960x540 pixels with a pixel size of 4 µm x 4 µm. For this, the Bayer-pattern of the webcam has to be known, e.g. by investigating the wavelength dependencies of the values of each pixel.
 <br><br>
@@ -75,6 +79,6 @@ However, we are in the process of testing three different options (all of them a
 (B2) Since the Bayer-pattern can easily be known by analysing the raw data, the method (A.2) can be applied (further information: https://arxiv.org/pdf/1801.06508.pdf).
 <br>
 (B3) Manually removing the Bayer-filter of the sensor chip. However, this process often damages the CMOS and removes the microlens-array in front of the pixels.
-<br>
+<br><br>
 (C) Using a blank, high resolution CMOS or CCD sensor chip without a Bayer-filter and do the wiring, controlling and programming yourself. Disadvantage: this process would be very time consuming.
 <br><br>
