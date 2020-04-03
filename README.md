@@ -70,7 +70,7 @@ However, we are in the process of testing three different options (all of them a
 <br><br>
   <img src="https://raw.githubusercontent.com/rainerkaufmann/BeamProfiler/master/fig3_profile.jpg" width="512">
 <br>
-Figure 3 | Beam profile. (A) Image as otained from camera. (B) 2x2 binning plus Gaussian filter.
+Figure 3 | Beam profile. (A) Image as otained from webcam. (B) 2x2 binning plus Gaussian filter.
 <br><br>
 (B) Using the raw data of an image showing the Bayer-pattern. However, it is difficult to extract the raw data from a webcam, depending on the manufacturer. The raw data can be processed the following ways:
 <br>
