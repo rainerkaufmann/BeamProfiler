@@ -80,5 +80,5 @@ Figure 3 | Beam profile. (A) Image as otained from webcam. (B) 2x2 binning plus 
 <br>
 (B3) Manually removing the Bayer-filter of the sensor chip. However, this process often damages the CMOS and removes the microlens-array in front of the pixels.
 <br><br>
-(C) Using a blank, high resolution CMOS or CCD sensor chip without a Bayer-filter (e.g. https://bit.ly/39TP0wg) and do the wiring, controlling and programming yourself. Disadvantage: this process would be very time consuming.
+(C) Using a blank, high resolution CMOS or CCD sensor chip without a Bayer-filter (e.g. https://bit.ly/39TP0wg) and do the wiring, controlling and programming yourself. Disadvantage: this process would be somewhat time consuming.
 <br><br>
